@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Header](https://https://user-images.githubusercontent.com/104602018/166294709-a5c3f01b-b666-4c64-9091-e8c6d29bb3b9.gif "Header")](https://www.linkedin.com/in/halle-pang/)
 
-![Purple Gradient Header Profile LinkedIn Banner](https://user-images.githubusercontent.com/104602018/166294709-a5c3f01b-b666-4c64-9091-e8c6d29bb3b9.gif)
+
+Hey There! 👋
+
 
 <!--
 **thisishalle/thisishalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Halle's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisishalle)](https://github.com/anuraghazra/github-readme-stats)
