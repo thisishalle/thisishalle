@@ -1,4 +1,4 @@
-[![Header](https://https://user-images.githubusercontent.com/104602018/166294709-a5c3f01b-b666-4c64-9091-e8c6d29bb3b9.gif "Header")](https://www.linkedin.com/in/halle-pang/)
+[![Header](https://user-images.githubusercontent.com/104602018/166294709-a5c3f01b-b666-4c64-9091-e8c6d29bb3b9.gif "Header")](https://www.linkedin.com/in/halle-pang/)
 
 
 Hey There! 👋
